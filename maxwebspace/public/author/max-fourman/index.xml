@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max Fourman | Website of Max Fourman</title>
+    <link>https://academic-demo.netlify.app/author/max-fourman/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/max-fourman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Max Fourman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Max Fourman</copyright>
+    <image>
+      <url>https://academic-demo.netlify.app/author/max-fourman/avatar_huccc71c43288a21e7791201718a970556_790375_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Max Fourman</title>
+      <link>https://academic-demo.netlify.app/author/max-fourman/</link>
+    </image>
+    
+  </channel>
+</rss>
